@@ -3,6 +3,7 @@
 Atstumo funkcija skaičiuota euclidean metodu
 
 Formulė atstumo tarp dviejų vektorių (pavyzdžiui, tarp dviejų virusų ar rūšių) skaičiavimui yra:
+
 ![image](https://github.com/user-attachments/assets/ce82b66f-a136-40cb-b21a-a69a266f4f12)
 
 kur 𝑓𝑖𝑘 ir 𝑓𝑗𝑘 – tai k-tojo kodono/dikodono dažnis atitinkamuose virusuose/rūšyse i ir j. Tai leidžia gauti atstumo matricas, kurios vėliau naudojamos dendrogramų sudarymui, parodant genetinius ar evoliucinius skirtumus.
