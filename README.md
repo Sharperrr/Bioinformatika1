@@ -6,7 +6,7 @@ Formulė atstumo tarp dviejų vektorių (pavyzdžiui, tarp dviejų virusų ar r�
 
 ![image](https://github.com/user-attachments/assets/ce82b66f-a136-40cb-b21a-a69a266f4f12)
 
-kur 𝑓𝑖𝑘 ir 𝑓𝑗𝑘 – tai k-tojo kodono/dikodono dažnis atitinkamuose virusuose/rūšyse i ir j. Tai leidžia gauti atstumo matricas, kurios vėliau naudojamos dendrogramų sudarymui, parodant genetinius ar evoliucinius skirtumus.
+kur 𝑓𝑖𝑘 ir 𝑓𝑗𝑘 – tai k-tojo kodono/dikodono dažnis atitinkamuose virusuose/rūšyse i ir j. Tai leidžia gauti atstumo matricas, kurios vėliau naudojamos dendrogramų sudarymui, parodant genetinius ar evoliucinius skirtumus/panašumus.
 
 Naudojant gautus kodonų dažnius, buvo suformuoti hierarchiniai dendrogramos medžiai, kurie parodo, kaip skirtingos bakterijų ir žinduolių grupės klasterizuojasi pagal jų kodonų dažnius. Žemiau pateikta dendrograma yra suformuota naudojant aminorūgščių dažnių klasterizaciją.
 
